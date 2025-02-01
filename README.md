@@ -4,7 +4,7 @@
 
 Plant Company Gross Profit, Sales, and Quantity Performance Report (2022-2024)! 🚀
 
-This interactive dashboard dynamically tracks YTD vs. PYTD trends for key metrics—Gross Profit, Sales, and Quantity—leveraging SWITCH measures, virtual tables, and conditional formatting for enhanced insights.
+This interactive dashboard dynamically tracks YTD vs. PYTD (Year to Date and Prior Year to Date) trends for key metrics—Gross Profit, Sales, and Quantity—leveraging SWITCH measures, virtual tables, and conditional formatting for enhanced insights.
 
 🔍 Key Features:
 
